@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ATipsycal
+- 👀 I’m interested in publishing all the BS that I come up with
+- 🌱 I’m currently learning C++, HTML, JavaScript, CSS, Python
+- 📫 How to reach me atipsycal@gmail.com
+- ⚡ Fun fact: I just started using github
